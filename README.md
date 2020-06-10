@@ -14,7 +14,7 @@ To download repo you can:
   - Run <code> pip install -r requirements.txt </code> 
  
  
-#Usage
+# Usage
 
 Here is a sample to run the Pandemic Model:
  <pre> <code> 
